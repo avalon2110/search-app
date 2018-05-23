@@ -1,5 +1,5 @@
 import reddit from './redditapi';
-
+// console.log(123);
 const searchForm = document.getElementById('search-form');
 const searchInput = document.getElementById('search-input');
 
